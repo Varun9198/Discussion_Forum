@@ -1,0 +1,32 @@
+﻿<h2>Welcome to the Discussion Forum!</h2>
+<h5 style="color:red;">
+    Login to enter the Forum!
+</h5>
+@{
+    ViewBag.Title = "Index";
+}
+
+@*@{ int a = ViewBag.Answers[1].CurrentQuestion.QuestionId;}
+    <b>@a</b>*@
+@for (int i = 0; i < ViewBag.Questions.Count; i++)
+{
+    <tr>
+        <td>@ViewBag.Questions[i].QuestionString</td>
+    </tr>
+
+    for (int j = 0; j < ViewBag.Answers.Count; j++)
+    {
+        if (ViewBag.Answers[j].CurrentQuestion == null) { continue; }
+        if (ViewBag.Questions[i].QuestionId == ViewBag.Answers[j].CurrentQuestion.QuestionId)
+        {
+            <tr>
+                <td>
+<pre>           
+@ViewBag.Answers[j].AnswerString
+</pre>
+                </td>
+            </tr>
+        }
+
+    }
+}

@@ -1,0 +1,56 @@
+﻿<h2>Welcome to the Discussion</h2>
+@{
+    ViewBag.Title = "LoggedIn";
+}
+
+
+<td>@Html.ActionLink("Add Question", "addQuestion")</td>
+
+<br />
+
+@for (int i = ViewBag.Questions.Count-1; i >= 0; i--)
+{
+<tr>
+    <td>
+        <h4>@ViewBag.Questions[i].QuestionString</h4>
+        
+        @if (ViewBag.Questions[i].User1.UserId.ToString().Equals(Session["UserId"].ToString()) ||
+            (Session["UserName"].ToString() == "admin"))
+        {
+<td>
+            @Html.ActionLink("Edit Question", "quesEdit", new { id = ViewBag.Questions[i].QuestionId }) |
+            @Html.ActionLink("Delete Question", "quesDelete", new { id = ViewBag.Questions[i].QuestionId })
+            <br />
+        </td>
+    }
+    
+    @Html.ActionLink("Add Answer", "addAnswer", new { id = ViewBag.Questions[i].QuestionId })
+</tr>
+    <br />
+
+    for (int j = ViewBag.Answers.Count-1; j >= 0 ; j--)
+    {
+        if(ViewBag.Answers[j].CurrentQuestion == null) { continue; }
+        if(ViewBag.Questions[i].QuestionId == ViewBag.Answers[j].CurrentQuestion.QuestionId)
+        {
+    <tr>
+        <td>
+            <h6>
+<pre>           
+@ViewBag.Answers[j].AnswerString
+</pre>
+            </h6>
+        </td>
+        @if (ViewBag.Answers[j].CurrentUser.UserId.ToString() == Session["UserId"].ToString() ||
+            (Session["UserName"].ToString() == "admin"))
+        {
+            <td>
+                @Html.ActionLink("Edit Answer", "ansEdit", new { id = ViewBag.Answers[j].AnswerId }) |
+                @Html.ActionLink("Delete Answer", "ansDelete", new { id = ViewBag.Answers[j].AnswerId })
+            </td>
+        }
+    </tr>
+        }
+
+    }
+}

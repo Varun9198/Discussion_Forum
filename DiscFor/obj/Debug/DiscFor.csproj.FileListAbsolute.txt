@@ -1,0 +1,598 @@
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\ApplicationInsights.config
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\roslyn\csc.exe
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\roslyn\System.Collections.Immutable.dll
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\roslyn\vbc.exe
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\roslyn\VBCSCompiler.exe
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\roslyn\VBCSCompiler.exe.config
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\DiscFor.dll.config
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\DiscFor.dll
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\DiscFor.pdb
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\Antlr3.Runtime.dll
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\EntityFramework.dll
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\EntityFramework.SqlServer.dll
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\Microsoft.AI.Web.dll
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\Microsoft.AI.WindowsServer.dll
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\Microsoft.ApplicationInsights.dll
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\Microsoft.Owin.dll
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\Microsoft.Owin.Security.dll
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\Microsoft.Owin.Security.Google.dll
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\Microsoft.Web.Infrastructure.dll
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\Newtonsoft.Json.dll
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\Owin.dll
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\System.Web.Helpers.dll
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\System.Web.Mvc.dll
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\System.Web.Optimization.dll
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\System.Web.Razor.dll
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\System.Web.WebPages.Deployment.dll
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\System.Web.WebPages.dll
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\System.Web.WebPages.Razor.dll
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\WebGrease.dll
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\Microsoft.AI.Web.xml
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\Microsoft.AI.WindowsServer.xml
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\Microsoft.ApplicationInsights.xml
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\System.Web.Helpers.xml
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\System.Web.Mvc.xml
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\System.Web.Optimization.xml
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\System.Web.Razor.xml
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\System.Web.WebPages.xml
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\System.Web.WebPages.Deployment.xml
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\System.Web.WebPages.Razor.xml
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\Antlr3.Runtime.pdb
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\Newtonsoft.Json.xml
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\EntityFramework.xml
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\EntityFramework.SqlServer.xml
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\Microsoft.Owin.xml
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\Microsoft.Owin.Security.xml
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\Microsoft.Owin.Security.Google.xml
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\obj\Debug\DiscFor.csprojResolveAssemblyReference.cache
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\obj\Debug\DiscFor.dll
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\obj\Debug\DiscFor.pdb
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\obj\Debug\DiscFor.Migrations.init.resources
+c:\users\user1\documents\visual studio 2015\Projects\DiscFor\DiscFor\obj\Debug\DiscFor.csproj.GenerateResource.Cache
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\ApplicationInsights.config
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\roslyn\csc.exe
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\roslyn\vbc.exe
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\roslyn\VBCSCompiler.exe
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\DiscFor.dll.config
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\DiscFor.dll
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\DiscFor.pdb
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\Antlr3.Runtime.dll
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\EntityFramework.dll
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\EntityFramework.SqlServer.dll
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\Microsoft.AI.Web.dll
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\Microsoft.ApplicationInsights.dll
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\Microsoft.Owin.dll
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\Microsoft.Owin.Security.dll
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\Newtonsoft.Json.dll
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\Owin.dll
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\System.Web.Helpers.dll
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\System.Web.Mvc.dll
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\System.Web.Optimization.dll
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\System.Web.Razor.dll
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\System.Web.WebPages.Deployment.dll
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\System.Web.WebPages.dll
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\System.Web.WebPages.Razor.dll
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\WebGrease.dll
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\Microsoft.AI.Web.xml
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\Microsoft.ApplicationInsights.xml
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\System.Web.Helpers.xml
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\System.Web.Mvc.xml
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\System.Web.Optimization.xml
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\System.Web.Razor.xml
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\System.Web.WebPages.xml
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\System.Web.WebPages.Deployment.xml
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\System.Web.WebPages.Razor.xml
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\Antlr3.Runtime.pdb
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\Newtonsoft.Json.xml
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\EntityFramework.xml
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\EntityFramework.SqlServer.xml
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\Microsoft.Owin.xml
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\Microsoft.Owin.Security.xml
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\obj\Debug\DiscFor.csproj.CoreCompileInputs.cache
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\obj\Debug\DiscFor.csproj.CopyComplete
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\obj\Debug\DiscFor.dll
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\obj\Debug\DiscFor.pdb
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\obj\Debug\DiscFor.Migrations.init.resources
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\obj\Debug\DiscFor.csproj.GenerateResource.cache
+C:\Users\a\Desktop\Project .net\DiscFor\DiscFor\obj\Debug\DiscFor.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\ApplicationInsights.config
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\roslyn\csc.exe
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\roslyn\vbc.exe
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\roslyn\VBCSCompiler.exe
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\DiscFor.dll.config
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\DiscFor.dll
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\DiscFor.pdb
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\Antlr3.Runtime.dll
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\EntityFramework.dll
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\EntityFramework.SqlServer.dll
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\Microsoft.AI.Web.dll
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\Microsoft.ApplicationInsights.dll
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\Microsoft.Owin.dll
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\Microsoft.Owin.Security.dll
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\Newtonsoft.Json.dll
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\Owin.dll
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\System.Web.Helpers.dll
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\System.Web.Mvc.dll
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\System.Web.Optimization.dll
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\System.Web.Razor.dll
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\System.Web.WebPages.dll
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\System.Web.WebPages.Razor.dll
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\WebGrease.dll
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\Microsoft.AI.Web.xml
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\Microsoft.ApplicationInsights.xml
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\System.Web.Helpers.xml
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\System.Web.Mvc.xml
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\System.Web.Optimization.xml
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\System.Web.Razor.xml
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\System.Web.WebPages.xml
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\System.Web.WebPages.Razor.xml
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\Antlr3.Runtime.pdb
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\Newtonsoft.Json.xml
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\EntityFramework.xml
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\EntityFramework.SqlServer.xml
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\Microsoft.Owin.xml
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\Microsoft.Owin.Security.xml
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user1\Desktop\DiscFor\DiscFor\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user1\Desktop\DiscFor\DiscFor\obj\Debug\DiscFor.csprojResolveAssemblyReference.cache
+C:\Users\user1\Desktop\DiscFor\DiscFor\obj\Debug\DiscFor.dll
+C:\Users\user1\Desktop\DiscFor\DiscFor\obj\Debug\DiscFor.pdb
+C:\Users\user1\Desktop\DiscFor\DiscFor\obj\Debug\DiscFor.Migrations.init.resources
+C:\Users\user1\Desktop\DiscFor\DiscFor\obj\Debug\DiscFor.csproj.GenerateResource.Cache
+E:\temp\DiscFor\DiscFor\bin\ApplicationInsights.config
+E:\temp\DiscFor\DiscFor\bin\roslyn\csc.exe
+E:\temp\DiscFor\DiscFor\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\temp\DiscFor\DiscFor\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\temp\DiscFor\DiscFor\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\temp\DiscFor\DiscFor\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\temp\DiscFor\DiscFor\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\temp\DiscFor\DiscFor\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\temp\DiscFor\DiscFor\bin\roslyn\System.Collections.Immutable.dll
+E:\temp\DiscFor\DiscFor\bin\roslyn\System.Reflection.Metadata.dll
+E:\temp\DiscFor\DiscFor\bin\roslyn\vbc.exe
+E:\temp\DiscFor\DiscFor\bin\roslyn\VBCSCompiler.exe
+E:\temp\DiscFor\DiscFor\bin\roslyn\VBCSCompiler.exe.config
+E:\temp\DiscFor\DiscFor\bin\DiscFor.dll.config
+E:\temp\DiscFor\DiscFor\bin\DiscFor.dll
+E:\temp\DiscFor\DiscFor\bin\DiscFor.pdb
+E:\temp\DiscFor\DiscFor\bin\Antlr3.Runtime.dll
+E:\temp\DiscFor\DiscFor\bin\EntityFramework.dll
+E:\temp\DiscFor\DiscFor\bin\EntityFramework.SqlServer.dll
+E:\temp\DiscFor\DiscFor\bin\Microsoft.AI.Agent.Intercept.dll
+E:\temp\DiscFor\DiscFor\bin\Microsoft.AI.DependencyCollector.dll
+E:\temp\DiscFor\DiscFor\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\temp\DiscFor\DiscFor\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\temp\DiscFor\DiscFor\bin\Microsoft.AI.Web.dll
+E:\temp\DiscFor\DiscFor\bin\Microsoft.AI.WindowsServer.dll
+E:\temp\DiscFor\DiscFor\bin\Microsoft.ApplicationInsights.dll
+E:\temp\DiscFor\DiscFor\bin\Microsoft.AspNet.Identity.Core.dll
+E:\temp\DiscFor\DiscFor\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\temp\DiscFor\DiscFor\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\temp\DiscFor\DiscFor\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\temp\DiscFor\DiscFor\bin\Microsoft.Owin.dll
+E:\temp\DiscFor\DiscFor\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\temp\DiscFor\DiscFor\bin\Microsoft.Owin.Security.Cookies.dll
+E:\temp\DiscFor\DiscFor\bin\Microsoft.Owin.Security.dll
+E:\temp\DiscFor\DiscFor\bin\Microsoft.Owin.Security.Facebook.dll
+E:\temp\DiscFor\DiscFor\bin\Microsoft.Owin.Security.Google.dll
+E:\temp\DiscFor\DiscFor\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\temp\DiscFor\DiscFor\bin\Microsoft.Owin.Security.OAuth.dll
+E:\temp\DiscFor\DiscFor\bin\Microsoft.Owin.Security.Twitter.dll
+E:\temp\DiscFor\DiscFor\bin\Microsoft.Web.Infrastructure.dll
+E:\temp\DiscFor\DiscFor\bin\Newtonsoft.Json.dll
+E:\temp\DiscFor\DiscFor\bin\Owin.dll
+E:\temp\DiscFor\DiscFor\bin\System.Web.Helpers.dll
+E:\temp\DiscFor\DiscFor\bin\System.Web.Mvc.dll
+E:\temp\DiscFor\DiscFor\bin\System.Web.Optimization.dll
+E:\temp\DiscFor\DiscFor\bin\System.Web.Razor.dll
+E:\temp\DiscFor\DiscFor\bin\System.Web.WebPages.Deployment.dll
+E:\temp\DiscFor\DiscFor\bin\System.Web.WebPages.dll
+E:\temp\DiscFor\DiscFor\bin\System.Web.WebPages.Razor.dll
+E:\temp\DiscFor\DiscFor\bin\WebGrease.dll
+E:\temp\DiscFor\DiscFor\bin\Microsoft.AI.DependencyCollector.xml
+E:\temp\DiscFor\DiscFor\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\temp\DiscFor\DiscFor\bin\Microsoft.AI.Web.xml
+E:\temp\DiscFor\DiscFor\bin\Microsoft.AI.WindowsServer.xml
+E:\temp\DiscFor\DiscFor\bin\Microsoft.ApplicationInsights.xml
+E:\temp\DiscFor\DiscFor\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\temp\DiscFor\DiscFor\bin\System.Web.Helpers.xml
+E:\temp\DiscFor\DiscFor\bin\System.Web.Mvc.xml
+E:\temp\DiscFor\DiscFor\bin\System.Web.Optimization.xml
+E:\temp\DiscFor\DiscFor\bin\System.Web.Razor.xml
+E:\temp\DiscFor\DiscFor\bin\System.Web.WebPages.xml
+E:\temp\DiscFor\DiscFor\bin\System.Web.WebPages.Deployment.xml
+E:\temp\DiscFor\DiscFor\bin\System.Web.WebPages.Razor.xml
+E:\temp\DiscFor\DiscFor\bin\Antlr3.Runtime.pdb
+E:\temp\DiscFor\DiscFor\bin\Newtonsoft.Json.xml
+E:\temp\DiscFor\DiscFor\bin\EntityFramework.xml
+E:\temp\DiscFor\DiscFor\bin\EntityFramework.SqlServer.xml
+E:\temp\DiscFor\DiscFor\bin\Microsoft.AspNet.Identity.Core.xml
+E:\temp\DiscFor\DiscFor\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\temp\DiscFor\DiscFor\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\temp\DiscFor\DiscFor\bin\Microsoft.Owin.xml
+E:\temp\DiscFor\DiscFor\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\temp\DiscFor\DiscFor\bin\Microsoft.Owin.Security.xml
+E:\temp\DiscFor\DiscFor\bin\Microsoft.Owin.Security.Facebook.xml
+E:\temp\DiscFor\DiscFor\bin\Microsoft.Owin.Security.Cookies.xml
+E:\temp\DiscFor\DiscFor\bin\Microsoft.Owin.Security.OAuth.xml
+E:\temp\DiscFor\DiscFor\bin\Microsoft.Owin.Security.Google.xml
+E:\temp\DiscFor\DiscFor\bin\Microsoft.Owin.Security.Twitter.xml
+E:\temp\DiscFor\DiscFor\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\temp\DiscFor\DiscFor\obj\Debug\DiscFor.csprojAssemblyReference.cache
+E:\temp\DiscFor\DiscFor\obj\Debug\DiscFor.csproj.CoreCompileInputs.cache
+E:\temp\DiscFor\DiscFor\obj\Debug\DiscFor.csproj.CopyComplete
+E:\temp\DiscFor\DiscFor\obj\Debug\DiscFor.dll
+E:\temp\DiscFor\DiscFor\obj\Debug\DiscFor.pdb
+E:\temp\DiscFor\DiscFor\obj\Debug\DiscFor.Migrations.init.resources
+E:\temp\DiscFor\DiscFor\obj\Debug\DiscFor.csproj.GenerateResource.cache
+D:\temp\DiscFor\DiscFor\bin\ApplicationInsights.config
+D:\temp\DiscFor\DiscFor\bin\roslyn\csc.exe
+D:\temp\DiscFor\DiscFor\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\temp\DiscFor\DiscFor\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\temp\DiscFor\DiscFor\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\temp\DiscFor\DiscFor\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\temp\DiscFor\DiscFor\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\temp\DiscFor\DiscFor\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\temp\DiscFor\DiscFor\bin\roslyn\System.Collections.Immutable.dll
+D:\temp\DiscFor\DiscFor\bin\roslyn\System.Reflection.Metadata.dll
+D:\temp\DiscFor\DiscFor\bin\roslyn\vbc.exe
+D:\temp\DiscFor\DiscFor\bin\roslyn\VBCSCompiler.exe
+D:\temp\DiscFor\DiscFor\bin\roslyn\VBCSCompiler.exe.config
+D:\temp\DiscFor\DiscFor\bin\DiscFor.dll.config
+D:\temp\DiscFor\DiscFor\bin\DiscFor.dll
+D:\temp\DiscFor\DiscFor\bin\DiscFor.pdb
+D:\temp\DiscFor\DiscFor\bin\Antlr3.Runtime.dll
+D:\temp\DiscFor\DiscFor\bin\EntityFramework.dll
+D:\temp\DiscFor\DiscFor\bin\EntityFramework.SqlServer.dll
+D:\temp\DiscFor\DiscFor\bin\Microsoft.AI.Agent.Intercept.dll
+D:\temp\DiscFor\DiscFor\bin\Microsoft.AI.DependencyCollector.dll
+D:\temp\DiscFor\DiscFor\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\temp\DiscFor\DiscFor\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\temp\DiscFor\DiscFor\bin\Microsoft.AI.Web.dll
+D:\temp\DiscFor\DiscFor\bin\Microsoft.AI.WindowsServer.dll
+D:\temp\DiscFor\DiscFor\bin\Microsoft.ApplicationInsights.dll
+D:\temp\DiscFor\DiscFor\bin\Microsoft.AspNet.Identity.Core.dll
+D:\temp\DiscFor\DiscFor\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\temp\DiscFor\DiscFor\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\temp\DiscFor\DiscFor\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\temp\DiscFor\DiscFor\bin\Microsoft.Owin.dll
+D:\temp\DiscFor\DiscFor\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\temp\DiscFor\DiscFor\bin\Microsoft.Owin.Security.Cookies.dll
+D:\temp\DiscFor\DiscFor\bin\Microsoft.Owin.Security.dll
+D:\temp\DiscFor\DiscFor\bin\Microsoft.Owin.Security.Facebook.dll
+D:\temp\DiscFor\DiscFor\bin\Microsoft.Owin.Security.Google.dll
+D:\temp\DiscFor\DiscFor\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\temp\DiscFor\DiscFor\bin\Microsoft.Owin.Security.OAuth.dll
+D:\temp\DiscFor\DiscFor\bin\Microsoft.Owin.Security.Twitter.dll
+D:\temp\DiscFor\DiscFor\bin\Microsoft.Web.Infrastructure.dll
+D:\temp\DiscFor\DiscFor\bin\Newtonsoft.Json.dll
+D:\temp\DiscFor\DiscFor\bin\Owin.dll
+D:\temp\DiscFor\DiscFor\bin\System.Web.Helpers.dll
+D:\temp\DiscFor\DiscFor\bin\System.Web.Mvc.dll
+D:\temp\DiscFor\DiscFor\bin\System.Web.Optimization.dll
+D:\temp\DiscFor\DiscFor\bin\System.Web.Razor.dll
+D:\temp\DiscFor\DiscFor\bin\System.Web.WebPages.Deployment.dll
+D:\temp\DiscFor\DiscFor\bin\System.Web.WebPages.dll
+D:\temp\DiscFor\DiscFor\bin\System.Web.WebPages.Razor.dll
+D:\temp\DiscFor\DiscFor\bin\WebGrease.dll
+D:\temp\DiscFor\DiscFor\bin\Microsoft.AI.DependencyCollector.xml
+D:\temp\DiscFor\DiscFor\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\temp\DiscFor\DiscFor\bin\Microsoft.AI.Web.xml
+D:\temp\DiscFor\DiscFor\bin\Microsoft.AI.WindowsServer.xml
+D:\temp\DiscFor\DiscFor\bin\Microsoft.ApplicationInsights.xml
+D:\temp\DiscFor\DiscFor\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\temp\DiscFor\DiscFor\bin\System.Web.Helpers.xml
+D:\temp\DiscFor\DiscFor\bin\System.Web.Mvc.xml
+D:\temp\DiscFor\DiscFor\bin\System.Web.Optimization.xml
+D:\temp\DiscFor\DiscFor\bin\System.Web.Razor.xml
+D:\temp\DiscFor\DiscFor\bin\System.Web.WebPages.xml
+D:\temp\DiscFor\DiscFor\bin\System.Web.WebPages.Deployment.xml
+D:\temp\DiscFor\DiscFor\bin\System.Web.WebPages.Razor.xml
+D:\temp\DiscFor\DiscFor\bin\Antlr3.Runtime.pdb
+D:\temp\DiscFor\DiscFor\bin\Newtonsoft.Json.xml
+D:\temp\DiscFor\DiscFor\bin\EntityFramework.xml
+D:\temp\DiscFor\DiscFor\bin\EntityFramework.SqlServer.xml
+D:\temp\DiscFor\DiscFor\bin\Microsoft.AspNet.Identity.Core.xml
+D:\temp\DiscFor\DiscFor\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\temp\DiscFor\DiscFor\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\temp\DiscFor\DiscFor\bin\Microsoft.Owin.xml
+D:\temp\DiscFor\DiscFor\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\temp\DiscFor\DiscFor\bin\Microsoft.Owin.Security.xml
+D:\temp\DiscFor\DiscFor\bin\Microsoft.Owin.Security.Facebook.xml
+D:\temp\DiscFor\DiscFor\bin\Microsoft.Owin.Security.Cookies.xml
+D:\temp\DiscFor\DiscFor\bin\Microsoft.Owin.Security.OAuth.xml
+D:\temp\DiscFor\DiscFor\bin\Microsoft.Owin.Security.Google.xml
+D:\temp\DiscFor\DiscFor\bin\Microsoft.Owin.Security.Twitter.xml
+D:\temp\DiscFor\DiscFor\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\temp\DiscFor\DiscFor\obj\Debug\DiscFor.csprojAssemblyReference.cache
+D:\temp\DiscFor\DiscFor\obj\Debug\DiscFor.csproj.CoreCompileInputs.cache
+D:\temp\DiscFor\DiscFor\obj\Debug\DiscFor.csproj.CopyComplete
+D:\temp\DiscFor\DiscFor\obj\Debug\DiscFor.dll
+D:\temp\DiscFor\DiscFor\obj\Debug\DiscFor.pdb
+D:\temp\DiscFor\DiscFor\obj\Debug\DiscFor.Migrations.init1.resources
+D:\temp\DiscFor\DiscFor\obj\Debug\DiscFor.csproj.GenerateResource.cache
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\ApplicationInsights.config
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\roslyn\csc.exe
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\roslyn\vbc.exe
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\roslyn\VBCSCompiler.exe
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\DiscFor.dll.config
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\DiscFor.dll
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\DiscFor.pdb
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\Antlr3.Runtime.dll
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\EntityFramework.dll
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\EntityFramework.SqlServer.dll
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\Microsoft.AI.Web.dll
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\Microsoft.ApplicationInsights.dll
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\Microsoft.Owin.dll
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\Microsoft.Owin.Security.dll
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\Newtonsoft.Json.dll
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\Owin.dll
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\System.Web.Helpers.dll
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\System.Web.Mvc.dll
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\System.Web.Optimization.dll
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\System.Web.Razor.dll
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\System.Web.WebPages.Deployment.dll
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\System.Web.WebPages.dll
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\System.Web.WebPages.Razor.dll
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\WebGrease.dll
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\Microsoft.AI.Web.xml
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\Microsoft.ApplicationInsights.xml
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\System.Web.Helpers.xml
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\System.Web.Mvc.xml
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\System.Web.Optimization.xml
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\System.Web.Razor.xml
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\System.Web.WebPages.xml
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\System.Web.WebPages.Deployment.xml
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\System.Web.WebPages.Razor.xml
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\Antlr3.Runtime.pdb
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\Newtonsoft.Json.xml
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\EntityFramework.xml
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\EntityFramework.SqlServer.xml
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\Microsoft.Owin.xml
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\Microsoft.Owin.Security.xml
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\obj\Debug\DiscFor.csprojAssemblyReference.cache
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\obj\Debug\DiscFor.csproj.CoreCompileInputs.cache
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\obj\Debug\DiscFor.csproj.CopyComplete
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\obj\Debug\DiscFor.dll
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\obj\Debug\DiscFor.pdb
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\obj\Debug\DiscFor.Migrations.init.resources
+C:\Users\a\Desktop\Project .net\Last\DiscFor\DiscFor\obj\Debug\DiscFor.csproj.GenerateResource.cache
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\ApplicationInsights.config
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\roslyn\csc.exe
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\roslyn\vbc.exe
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\roslyn\VBCSCompiler.exe
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\DiscFor.dll.config
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\DiscFor.dll
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\DiscFor.pdb
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\Antlr3.Runtime.dll
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\EntityFramework.dll
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\EntityFramework.SqlServer.dll
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\Microsoft.AI.Web.dll
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\Microsoft.ApplicationInsights.dll
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\Microsoft.Owin.dll
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\Microsoft.Owin.Security.dll
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\Newtonsoft.Json.dll
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\Owin.dll
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\System.Web.Helpers.dll
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\System.Web.Mvc.dll
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\System.Web.Optimization.dll
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\System.Web.Razor.dll
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\System.Web.WebPages.dll
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\System.Web.WebPages.Razor.dll
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\WebGrease.dll
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\Microsoft.AI.Web.xml
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\Microsoft.ApplicationInsights.xml
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\System.Web.Helpers.xml
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\System.Web.Mvc.xml
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\System.Web.Optimization.xml
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\System.Web.Razor.xml
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\System.Web.WebPages.xml
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\System.Web.WebPages.Razor.xml
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\Antlr3.Runtime.pdb
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\Newtonsoft.Json.xml
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\EntityFramework.xml
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\EntityFramework.SqlServer.xml
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\Microsoft.Owin.xml
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\Microsoft.Owin.Security.xml
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\obj\Debug\DiscFor.csprojAssemblyReference.cache
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\obj\Debug\DiscFor.Migrations.init.resources
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\obj\Debug\DiscFor.csproj.GenerateResource.cache
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\obj\Debug\DiscFor.csproj.CoreCompileInputs.cache
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\obj\Debug\DiscFor.csproj.CopyComplete
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\obj\Debug\DiscFor.dll
+C:\Users\dell\Downloads\DiscFor\DiscFor\DiscFor\obj\Debug\DiscFor.pdb
